@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        NUMBER1 = 2  // You can change this value
-        NUMBER2 = 3  // You can change this value
+        NUMBER1 = 5  // You can change this value
+        NUMBER2 = 7  // You can change this value
     }
 
     stages {
